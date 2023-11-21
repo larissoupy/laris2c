@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=ProblemSet2C
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ ProblemSet2C\ here.\r\n\r\n\ @author\ still\ laris\r\n\ @version\ nov\ 21\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=a1\ a2
+comment2.target=double\ slopeFinder(OrderedPair,\ OrderedPair)
+comment3.params=b1\ b2
+comment3.target=OrderedPair\ midPoint(OrderedPair,\ OrderedPair)
+numComments=4
